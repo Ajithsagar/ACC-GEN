@@ -140,7 +140,7 @@ img {
 }
 
 .navbar {
-    background: white;
+    background: black;
     padding: 0.5rem 0;
     border-bottom: 1.5px solid var(--light-gray);
 }
