@@ -126,7 +126,7 @@ img {
 }
 
 .header {
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(images/background.jpg) center/cover fixed no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(images1/background.jpg) center/cover fixed no-repeat;
 }
 
 .header-wrapper {
