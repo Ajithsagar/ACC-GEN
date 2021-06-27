@@ -192,6 +192,7 @@ img {
     padding: 0.8rem;
     border-bottom: 0.5px solid rgba(255, 255, 255, 0.2);
     font-size:large;
+    font-color:white;
 }
 
 .nav-item:last-child {
